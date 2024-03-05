@@ -1,0 +1,681 @@
+﻿unit,unit_id,unit_count,opponent,opponent_id,opponent_count,kills,deaths,kill_rate,death_rate,kdr,status
+Legionary,1,250,Darkhan,2,250,217,96,0.87,38.4,2.26,Win
+Legionary,1,250,Darkhan,2,250,216,87,0.86,34.8,2.48,Win
+Legionary,1,250,Darkhan,2,250,207,70,0.83,28,2.96,Win
+Legionary,1,250,Darkhan,2,250,234,36,0.94,14.4,6.5,Win
+Legionary,1,250,Darkhan,2,250,239,44,0.96,17.6,5.43,Win
+Legionary,1,250,Darkhan,2,250,199,50,0.8,20,3.98,Win
+Legionary,1,250,Darkhan,2,250,213,32,0.85,12.8,6.66,Win
+Legionary,1,250,Darkhan,2,250,198,115,0.79,46,1.72,Win
+Legionary,1,250,Darkhan,2,250,199,84,0.8,33.6,2.37,Win
+Legionary,1,250,Darkhan,2,250,196,123,0.78,49.2,1.59,Win
+Legionary,1,250,Sergeant,3,250,172,77,0.69,30.8,2.23,Win
+Legionary,1,250,Sergeant,3,250,234,162,0.94,64.8,1.44,Win
+Legionary,1,250,Sergeant,3,250,221,139,0.88,55.6,1.59,Win
+Legionary,1,250,Sergeant,3,250,204,114,0.82,45.6,1.79,Win
+Legionary,1,250,Sergeant,3,250,220,156,0.88,62.4,1.41,Win
+Legionary,1,250,Sergeant,3,250,216,98,0.86,39.2,2.2,Win
+Legionary,1,250,Sergeant,3,250,212,103,0.85,41.2,2.06,Win
+Legionary,1,250,Sergeant,3,250,192,104,0.77,41.6,1.85,Win
+Legionary,1,250,Sergeant,3,250,197,78,0.79,31.2,2.53,Win
+Legionary,1,250,Sergeant,3,250,192,134,0.77,53.6,1.43,Win
+Legionary,1,250,Oathsworn,4,250,195,47,0.78,18.8,4.15,Win
+Legionary,1,250,Oathsworn,4,250,189,55,0.76,22,3.44,Win
+Legionary,1,250,Oathsworn,4,250,191,62,0.76,24.8,3.08,Win
+Legionary,1,250,Oathsworn,4,250,203,53,0.81,21.2,3.83,Win
+Legionary,1,250,Oathsworn,4,250,194,43,0.78,17.2,4.51,Win
+Legionary,1,250,Oathsworn,4,250,213,39,0.85,15.6,5.46,Win
+Legionary,1,250,Oathsworn,4,250,219,41,0.88,16.4,5.34,Win
+Legionary,1,250,Oathsworn,4,250,221,31,0.88,12.4,7.13,Win
+Legionary,1,250,Oathsworn,4,250,218,103,0.87,41.2,2.12,Win
+Legionary,1,250,Oathsworn,4,250,207,35,0.83,14,5.91,Win
+Legionary,1,250,Wildling,5,250,223,27,0.89,10.8,8.26,Win
+Legionary,1,250,Wildling,5,250,201,48,0.8,19.2,4.19,Win
+Legionary,1,250,Wildling,5,250,203,35,0.81,14,5.8,Win
+Legionary,1,250,Wildling,5,250,219,33,0.88,13.2,6.64,Win
+Legionary,1,250,Wildling,5,250,220,26,0.88,10.4,8.46,Win
+Legionary,1,250,Wildling,5,250,191,30,0.76,12,6.37,Win
+Legionary,1,250,Wildling,5,250,185,26,0.74,10.4,7.12,Win
+Legionary,1,250,Wildling,5,250,198,37,0.79,14.8,5.35,Win
+Legionary,1,250,Wildling,5,250,203,22,0.81,8.8,9.23,Win
+Legionary,1,250,Wildling,5,250,205,31,0.82,12.4,6.61,Win
+Legionary,1,250,Heavy Spearmen,6,250,234,110,0.94,44,2.13,Win
+Legionary,1,250,Heavy Spearmen,6,250,227,99,0.91,39.6,2.29,Win
+Legionary,1,250,Heavy Spearmen,6,250,233,61,0.93,24.4,3.82,Win
+Legionary,1,250,Heavy Spearmen,6,250,225,77,0.9,30.8,2.92,Win
+Legionary,1,250,Heavy Spearmen,6,250,195,70,0.78,28,2.79,Win
+Legionary,1,250,Heavy Spearmen,6,250,188,117,0.75,46.8,1.61,Win
+Legionary,1,250,Heavy Spearmen,6,250,214,63,0.86,25.2,3.4,Win
+Legionary,1,250,Heavy Spearmen,6,250,230,117,0.92,46.8,1.97,Win
+Legionary,1,250,Heavy Spearmen,6,250,227,90,0.91,36,2.52,Win
+Legionary,1,250,Heavy Spearmen,6,250,199,103,0.8,41.2,1.93,Win
+Legionary,1,250,Heavy Axemen,7,250,203,4,0.81,1.6,50.75,Win
+Legionary,1,250,Heavy Axemen,7,250,167,6,0.67,2.4,27.83,Win
+Legionary,1,250,Heavy Axemen,7,250,172,1,0.69,0.4,172,Win
+Legionary,1,250,Heavy Axemen,7,250,206,4,0.82,1.6,51.5,Win
+Legionary,1,250,Heavy Axemen,7,250,222,5,0.89,2,44.4,Win
+Legionary,1,250,Heavy Axemen,7,250,205,8,0.82,3.2,25.63,Win
+Legionary,1,250,Heavy Axemen,7,250,213,3,0.85,1.2,71,Win
+Legionary,1,250,Heavy Axemen,7,250,197,12,0.79,4.8,16.42,Win
+Legionary,1,250,Heavy Axemen,7,250,230,10,0.92,4,23,Win
+Legionary,1,250,Heavy Axemen,7,250,212,5,0.85,2,42.4,Win
+Legionary,1,250,Veteran Infantry,8,250,221,141,0.88,56.4,1.57,Win
+Legionary,1,250,Veteran Infantry,8,250,215,100,0.86,40,2.15,Win
+Legionary,1,250,Veteran Infantry,8,250,153,202,0.61,80.8,0.76,Loss
+Legionary,1,250,Veteran Infantry,8,250,205,157,0.82,62.8,1.31,Win
+Legionary,1,250,Veteran Infantry,8,250,212,105,0.85,42,2.02,Win
+Legionary,1,250,Veteran Infantry,8,250,190,71,0.76,28.4,2.68,Win
+Legionary,1,250,Veteran Infantry,8,250,222,101,0.89,40.4,2.2,Win
+Legionary,1,250,Veteran Infantry,8,250,226,118,0.9,47.2,1.92,Win
+Legionary,1,250,Veteran Infantry,8,250,209,147,0.84,58.8,1.42,Win
+Legionary,1,250,Veteran Infantry,8,250,224,100,0.9,40,2.24,Win
+Legionary,1,250,Elite Cataphract T6 Cav,9,250,206,110,0.82,44,1.87,Win
+Legionary,1,250,Elite Cataphract T6 Cav,9,250,191,101,0.76,40.4,1.89,Win
+Legionary,1,250,Elite Cataphract T6 Cav,9,250,210,101,0.84,40.4,2.08,Win
+Legionary,1,250,Elite Cataphract T6 Cav,9,250,157,208,0.63,83.2,0.75,Loss
+Legionary,1,250,Elite Cataphract T6 Cav,9,250,189,81,0.76,32.4,2.33,Win
+Legionary,1,250,Elite Cataphract T6 Cav,9,250,200,73,0.8,29.2,2.74,Win
+Legionary,1,250,Elite Cataphract T6 Cav,9,250,213,121,0.85,48.4,1.76,Win
+Legionary,1,250,Elite Cataphract T6 Cav,9,250,212,84,0.85,33.6,2.52,Win
+Legionary,1,250,Elite Cataphract T6 Cav,9,250,227,174,0.91,69.6,1.3,Win
+Legionary,1,250,Elite Cataphract T6 Cav,9,250,205,81,0.82,32.4,2.53,Win
+Legionary,1,250,Imperial Sgt Crossbowmen,10,250,200,182,0.8,72.8,1.1,Win
+Legionary,1,250,Imperial Sgt Crossbowmen,10,250,202,220,0.81,88,0.92,Loss
+Legionary,1,250,Imperial Sgt Crossbowmen,10,250,205,138,0.82,55.2,1.49,Win
+Legionary,1,250,Imperial Sgt Crossbowmen,10,250,184,218,0.74,87.2,0.84,Loss
+Legionary,1,250,Imperial Sgt Crossbowmen,10,250,230,169,0.92,67.6,1.36,Win
+Legionary,1,250,Imperial Sgt Crossbowmen,10,250,228,154,0.91,61.6,1.48,Win
+Legionary,1,250,Imperial Sgt Crossbowmen,10,250,159,206,0.64,82.4,0.77,Loss
+Legionary,1,250,Imperial Sgt Crossbowmen,10,250,130,208,0.52,83.2,0.63,Loss
+Legionary,1,250,Imperial Sgt Crossbowmen,10,250,207,190,0.83,76,1.09,Win
+Legionary,1,250,Imperial Sgt Crossbowmen,10,250,202,208,0.81,83.2,0.97,Loss
+Legionary,1,250,Khan's Guard,11,250,81,208,0.32,83.2,0.39,Loss
+Legionary,1,250,Khan's Guard,11,250,52,237,0.21,94.8,0.22,Loss
+Legionary,1,250,Khan's Guard,11,250,57,231,0.23,92.4,0.25,Loss
+Legionary,1,250,Khan's Guard,11,250,66,235,0.26,94,0.28,Loss
+Legionary,1,250,Khan's Guard,11,250,61,226,0.24,90.4,0.27,Loss
+Legionary,1,250,Khan's Guard,11,250,65,242,0.26,96.8,0.27,Loss
+Legionary,1,250,Khan's Guard,11,250,72,220,0.29,88,0.33,Loss
+Legionary,1,250,Khan's Guard,11,250,27,223,0.11,89.2,0.12,Loss
+Legionary,1,250,Khan's Guard,11,250,63,225,0.25,90,0.28,Loss
+Legionary,1,250,Khan's Guard,11,250,67,220,0.27,88,0.3,Loss
+Legionary,1,250,Fian Champion,12,250,87,222,0.35,88.8,0.39,Loss
+Legionary,1,250,Fian Champion,12,250,57,242,0.23,96.8,0.24,Loss
+Legionary,1,250,Fian Champion,12,250,95,210,0.38,84,0.45,Loss
+Legionary,1,250,Fian Champion,12,250,91,216,0.36,86.4,0.42,Loss
+Legionary,1,250,Fian Champion,12,250,101,207,0.4,82.8,0.49,Loss
+Legionary,1,250,Fian Champion,12,250,85,222,0.34,88.8,0.38,Loss
+Legionary,1,250,Fian Champion,12,250,92,225,0.37,90,0.41,Loss
+Legionary,1,250,Fian Champion,12,250,113,205,0.45,82,0.55,Loss
+Legionary,1,250,Fian Champion,12,250,87,220,0.35,88,0.4,Loss
+Legionary,1,250,Fian Champion,12,250,84,223,0.34,89.2,0.38,Loss
+Legionary,1,250,Mixed Infantry,13,667,319,245,0.48,98,1.3,Loss
+Legionary,1,250,Mixed Infantry,13,667,319,243,0.48,97.2,1.31,Loss
+Legionary,1,250,Mixed Infantry,13,667,362,228,0.54,91.2,1.59,Loss
+Legionary,1,250,Mixed Infantry,13,667,322,229,0.48,91.6,1.41,Loss
+Legionary,1,250,Mixed Infantry,13,667,554,114,0.83,45.6,4.86,Win
+Legionary,1,250,Mixed Infantry,13,667,552,137,0.83,54.8,4.03,Win
+Legionary,1,250,Mixed Infantry,13,667,312,236,0.47,94.4,1.32,Loss
+Legionary,1,250,Mixed Infantry,13,667,552,141,0.83,56.4,3.91,Win
+Legionary,1,250,Mixed Infantry,13,667,309,234,0.46,93.6,1.32,Loss
+Legionary,1,250,Mixed Infantry,13,667,464,228,0.7,91.2,2.04,Loss
+Darkhan,2,250,Sergeant,3,250,213,135,0.85,54,1.58,Win
+Darkhan,2,250,Sergeant,3,250,201,189,0.8,75.6,1.06,Win
+Darkhan,2,250,Sergeant,3,250,144,214,0.58,85.6,0.67,Loss
+Darkhan,2,250,Sergeant,3,250,107,209,0.43,83.6,0.51,Loss
+Darkhan,2,250,Sergeant,3,250,211,208,0.84,83.2,1.01,Win
+Darkhan,2,250,Sergeant,3,250,177,226,0.71,90.4,0.78,Loss
+Darkhan,2,250,Sergeant,3,250,120,219,0.48,87.6,0.55,Loss
+Darkhan,2,250,Sergeant,3,250,147,201,0.59,80.4,0.73,Loss
+Darkhan,2,250,Sergeant,3,250,159,212,0.64,84.8,0.75,Loss
+Darkhan,2,250,Sergeant,3,250,125,199,0.5,79.6,0.63,Loss
+Darkhan,2,250,Oathsworn,4,250,206,131,0.82,52.4,1.57,Win
+Darkhan,2,250,Oathsworn,4,250,216,91,0.86,36.4,2.37,Win
+Darkhan,2,250,Oathsworn,4,250,172,207,0.69,82.8,0.83,Loss
+Darkhan,2,250,Oathsworn,4,250,192,122,0.77,48.8,1.57,Win
+Darkhan,2,250,Oathsworn,4,250,139,233,0.56,93.2,0.6,Loss
+Darkhan,2,250,Oathsworn,4,250,147,194,0.59,77.6,0.76,Loss
+Darkhan,2,250,Oathsworn,4,250,148,199,0.59,79.6,0.74,Loss
+Darkhan,2,250,Oathsworn,4,250,154,232,0.62,92.8,0.66,Loss
+Darkhan,2,250,Oathsworn,4,250,186,213,0.74,85.2,0.87,Loss
+Darkhan,2,250,Oathsworn,4,250,100,199,0.4,79.6,0.5,Loss
+Darkhan,2,250,Wildling,5,250,202,65,0.81,26,3.11,Win
+Darkhan,2,250,Wildling,5,250,183,57,0.73,22.8,3.21,Win
+Darkhan,2,250,Wildling,5,250,190,66,0.76,26.4,2.88,Win
+Darkhan,2,250,Wildling,5,250,193,47,0.77,18.8,4.11,Win
+Darkhan,2,250,Wildling,5,250,171,35,0.68,14,4.89,Win
+Darkhan,2,250,Wildling,5,250,186,104,0.74,41.6,1.79,Win
+Darkhan,2,250,Wildling,5,250,177,68,0.71,27.2,2.6,Win
+Darkhan,2,250,Wildling,5,250,185,52,0.74,20.8,3.56,Win
+Darkhan,2,250,Wildling,5,250,208,41,0.83,16.4,5.07,Win
+Darkhan,2,250,Wildling,5,250,182,41,0.73,16.4,4.44,Win
+Darkhan,2,250,Heavy Spearmen,6,250,116,205,0.46,82,0.57,Loss
+Darkhan,2,250,Heavy Spearmen,6,250,214,180,0.86,72,1.19,Win
+Darkhan,2,250,Heavy Spearmen,6,250,122,202,0.49,80.8,0.6,Loss
+Darkhan,2,250,Heavy Spearmen,6,250,230,138,0.92,55.2,1.67,Win
+Darkhan,2,250,Heavy Spearmen,6,250,172,212,0.69,84.8,0.81,Loss
+Darkhan,2,250,Heavy Spearmen,6,250,121,203,0.48,81.2,0.6,Loss
+Darkhan,2,250,Heavy Spearmen,6,250,218,125,0.87,50,1.74,Win
+Darkhan,2,250,Heavy Spearmen,6,250,115,200,0.46,80,0.58,Loss
+Darkhan,2,250,Heavy Spearmen,6,250,171,220,0.68,88,0.78,Loss
+Darkhan,2,250,Heavy Spearmen,6,250,130,227,0.52,90.8,0.57,Loss
+Darkhan,2,250,Heavy Axemen,7,250,94,226,0.38,90.4,0.42,Loss
+Darkhan,2,250,Heavy Axemen,7,250,145,204,0.58,81.6,0.71,Loss
+Darkhan,2,250,Heavy Axemen,7,250,168,209,0.67,83.6,0.8,Loss
+Darkhan,2,250,Heavy Axemen,7,250,119,213,0.48,85.2,0.56,Loss
+Darkhan,2,250,Heavy Axemen,7,250,203,140,0.81,56,1.45,Win
+Darkhan,2,250,Heavy Axemen,7,250,137,198,0.55,79.2,0.69,Loss
+Darkhan,2,250,Heavy Axemen,7,250,206,160,0.82,64,1.29,Win
+Darkhan,2,250,Heavy Axemen,7,250,156,201,0.62,80.4,0.78,Loss
+Darkhan,2,250,Heavy Axemen,7,250,100,220,0.4,88,0.45,Loss
+Darkhan,2,250,Heavy Axemen,7,250,103,223,0.41,89.2,0.46,Loss
+Darkhan,2,250,Veteran Infantry,8,250,128,207,0.51,82.8,0.62,Loss
+Darkhan,2,250,Veteran Infantry,8,250,52,226,0.21,90.4,0.23,Loss
+Darkhan,2,250,Veteran Infantry,8,250,58,206,0.23,82.4,0.28,Loss
+Darkhan,2,250,Veteran Infantry,8,250,62,223,0.25,89.2,0.28,Loss
+Darkhan,2,250,Veteran Infantry,8,250,68,207,0.27,82.8,0.33,Loss
+Darkhan,2,250,Veteran Infantry,8,250,101,206,0.4,82.4,0.49,Loss
+Darkhan,2,250,Veteran Infantry,8,250,54,215,0.22,86,0.25,Loss
+Darkhan,2,250,Veteran Infantry,8,250,76,225,0.3,90,0.34,Loss
+Darkhan,2,250,Veteran Infantry,8,250,70,223,0.28,89.2,0.31,Loss
+Darkhan,2,250,Veteran Infantry,8,250,102,217,0.41,86.8,0.47,Loss
+Darkhan,2,250,Elite Cataphract T6 Cav,9,250,65,202,0.26,80.8,0.32,Loss
+Darkhan,2,250,Elite Cataphract T6 Cav,9,250,39,212,0.16,84.8,0.18,Loss
+Darkhan,2,250,Elite Cataphract T6 Cav,9,250,63,198,0.25,79.2,0.32,Loss
+Darkhan,2,250,Elite Cataphract T6 Cav,9,250,63,197,0.25,78.8,0.32,Loss
+Darkhan,2,250,Elite Cataphract T6 Cav,9,250,44,204,0.18,81.6,0.22,Loss
+Darkhan,2,250,Elite Cataphract T6 Cav,9,250,45,213,0.18,85.2,0.21,Loss
+Darkhan,2,250,Elite Cataphract T6 Cav,9,250,76,222,0.3,88.8,0.34,Loss
+Darkhan,2,250,Elite Cataphract T6 Cav,9,250,101,199,0.4,79.6,0.51,Loss
+Darkhan,2,250,Elite Cataphract T6 Cav,9,250,43,190,0.17,76,0.23,Loss
+Darkhan,2,250,Elite Cataphract T6 Cav,9,250,34,210,0.14,84,0.16,Loss
+Darkhan,2,250,Imperial Sgt Crossbowmen,10,250,165,206,0.66,82.4,0.8,Loss
+Darkhan,2,250,Imperial Sgt Crossbowmen,10,250,209,156,0.84,62.4,1.34,Win
+Darkhan,2,250,Imperial Sgt Crossbowmen,10,250,92,215,0.37,86,0.43,Loss
+Darkhan,2,250,Imperial Sgt Crossbowmen,10,250,104,239,0.42,95.6,0.44,Loss
+Darkhan,2,250,Imperial Sgt Crossbowmen,10,250,197,128,0.79,51.2,1.54,Win
+Darkhan,2,250,Imperial Sgt Crossbowmen,10,250,195,205,0.78,82,0.95,Loss
+Darkhan,2,250,Imperial Sgt Crossbowmen,10,250,199,220,0.8,88,0.9,Loss
+Darkhan,2,250,Imperial Sgt Crossbowmen,10,250,213,177,0.85,70.8,1.2,Win
+Darkhan,2,250,Imperial Sgt Crossbowmen,10,250,117,217,0.47,86.8,0.54,Loss
+Darkhan,2,250,Imperial Sgt Crossbowmen,10,250,228,161,0.91,64.4,1.42,Win
+Darkhan,2,250,Khan's Guard,11,250,22,229,0.09,91.6,0.1,Loss
+Darkhan,2,250,Khan's Guard,11,250,53,229,0.21,91.6,0.23,Loss
+Darkhan,2,250,Khan's Guard,11,250,18,240,0.07,96,0.08,Loss
+Darkhan,2,250,Khan's Guard,11,250,56,220,0.22,88,0.25,Loss
+Darkhan,2,250,Khan's Guard,11,250,41,230,0.16,92,0.18,Loss
+Darkhan,2,250,Khan's Guard,11,250,19,236,0.08,94.4,0.08,Loss
+Darkhan,2,250,Khan's Guard,11,250,26,232,0.1,92.8,0.11,Loss
+Darkhan,2,250,Khan's Guard,11,250,38,242,0.15,96.8,0.16,Loss
+Darkhan,2,250,Khan's Guard,11,250,30,235,0.12,94,0.13,Loss
+Darkhan,2,250,Khan's Guard,11,250,31,222,0.12,88.8,0.14,Loss
+Darkhan,2,250,Fian Champion,12,250,59,235,0.24,94,0.25,Loss
+Darkhan,2,250,Fian Champion,12,250,33,230,0.13,92,0.14,Loss
+Darkhan,2,250,Fian Champion,12,250,30,231,0.12,92.4,0.13,Loss
+Darkhan,2,250,Fian Champion,12,250,65,216,0.26,86.4,0.3,Loss
+Darkhan,2,250,Fian Champion,12,250,51,220,0.2,88,0.23,Loss
+Darkhan,2,250,Fian Champion,12,250,72,213,0.29,85.2,0.34,Loss
+Darkhan,2,250,Fian Champion,12,250,48,213,0.19,85.2,0.23,Loss
+Darkhan,2,250,Fian Champion,12,250,52,210,0.21,84,0.25,Loss
+Darkhan,2,250,Fian Champion,12,250,40,224,0.16,89.6,0.18,Loss
+Darkhan,2,250,Fian Champion,12,250,36,223,0.14,89.2,0.16,Loss
+Darkhan,2,250,Mixed Infantry,13,667,496,210,0.74,84,2.36,Win
+Darkhan,2,250,Mixed Infantry,13,667,501,107,0.75,42.8,4.68,Win
+Darkhan,2,250,Mixed Infantry,13,667,454,226,0.68,90.4,2.01,Loss
+Darkhan,2,250,Mixed Infantry,13,667,347,241,0.52,96.4,1.44,Loss
+Darkhan,2,250,Mixed Infantry,13,667,545,137,0.82,54.8,3.98,Win
+Darkhan,2,250,Mixed Infantry,13,667,506,79,0.76,31.6,6.41,Win
+Darkhan,2,250,Mixed Infantry,13,667,425,235,0.64,94,1.81,Loss
+Darkhan,2,250,Mixed Infantry,13,667,370,246,0.55,98.4,1.5,Loss
+Darkhan,2,250,Mixed Infantry,13,667,418,236,0.63,94.4,1.77,Loss
+Darkhan,2,250,Mixed Infantry,13,667,512,121,0.77,48.4,4.23,Win
+Sergeant,3,250,Wildling,5,250,192,45,0.77,18,4.27,Win
+Sergeant,3,250,Wildling,5,250,213,50,0.85,20,4.26,Win
+Sergeant,3,250,Wildling,5,250,216,50,0.86,20,4.32,Win
+Sergeant,3,250,Wildling,5,250,182,63,0.73,25.2,2.89,Win
+Sergeant,3,250,Wildling,5,250,184,46,0.74,18.4,4,Win
+Sergeant,3,250,Wildling,5,250,185,61,0.74,24.4,3.03,Win
+Sergeant,3,250,Wildling,5,250,186,48,0.74,19.2,3.88,Win
+Sergeant,3,250,Wildling,5,250,195,87,0.78,34.8,2.24,Win
+Sergeant,3,250,Wildling,5,250,193,88,0.77,35.2,2.19,Win
+Sergeant,3,250,Wildling,5,250,194,64,0.78,25.6,3.03,Win
+Sergeant,3,250,Oathsworn,4,250,216,158,0.86,63.2,1.37,Win
+Sergeant,3,250,Oathsworn,4,250,212,165,0.85,66,1.28,Win
+Sergeant,3,250,Oathsworn,4,250,227,88,0.91,35.2,2.58,Win
+Sergeant,3,250,Oathsworn,4,250,213,120,0.85,48,1.78,Win
+Sergeant,3,250,Oathsworn,4,250,217,99,0.87,39.6,2.19,Win
+Sergeant,3,250,Oathsworn,4,250,205,127,0.82,50.8,1.61,Win
+Sergeant,3,250,Oathsworn,4,250,208,147,0.83,58.8,1.41,Win
+Sergeant,3,250,Oathsworn,4,250,154,206,0.62,82.4,0.75,Loss
+Sergeant,3,250,Oathsworn,4,250,221,91,0.88,36.4,2.43,Win
+Sergeant,3,250,Oathsworn,4,250,212,84,0.85,33.6,2.52,Win
+Sergeant,3,250,Heavy Spearmen,6,250,212,156,0.85,62.4,1.36,Win
+Sergeant,3,250,Heavy Spearmen,6,250,236,87,0.94,34.8,2.71,Win
+Sergeant,3,250,Heavy Spearmen,6,250,204,129,0.82,51.6,1.58,Win
+Sergeant,3,250,Heavy Spearmen,6,250,212,123,0.85,49.2,1.72,Win
+Sergeant,3,250,Heavy Spearmen,6,250,218,153,0.87,61.2,1.42,Win
+Sergeant,3,250,Heavy Spearmen,6,250,147,203,0.59,81.2,0.72,Loss
+Sergeant,3,250,Heavy Spearmen,6,250,169,209,0.68,83.6,0.81,Loss
+Sergeant,3,250,Heavy Spearmen,6,250,223,106,0.89,42.4,2.1,Win
+Sergeant,3,250,Heavy Spearmen,6,250,202,222,0.81,88.8,0.91,Loss
+Sergeant,3,250,Heavy Spearmen,6,250,203,166,0.81,66.4,1.22,Win
+Sergeant,3,250,Heavy Axemen,7,250,218,153,0.87,61.2,1.42,Win
+Sergeant,3,250,Heavy Axemen,7,250,205,215,0.82,86,0.95,Loss
+Sergeant,3,250,Heavy Axemen,7,250,114,199,0.46,79.6,0.57,Loss
+Sergeant,3,250,Heavy Axemen,7,250,195,130,0.78,52,1.5,Win
+Sergeant,3,250,Heavy Axemen,7,250,192,122,0.77,48.8,1.57,Win
+Sergeant,3,250,Heavy Axemen,7,250,232,140,0.93,56,1.66,Win
+Sergeant,3,250,Heavy Axemen,7,250,205,134,0.82,53.6,1.53,Win
+Sergeant,3,250,Heavy Axemen,7,250,190,165,0.76,66,1.15,Win
+Sergeant,3,250,Heavy Axemen,7,250,201,167,0.8,66.8,1.2,Win
+Sergeant,3,250,Heavy Axemen,7,250,160,208,0.64,83.2,0.77,Loss
+Sergeant,3,250,Veteran Infantry,8,250,124,204,0.5,81.6,0.61,Loss
+Sergeant,3,250,Veteran Infantry,8,250,192,208,0.77,83.2,0.92,Loss
+Sergeant,3,250,Veteran Infantry,8,250,112,207,0.45,82.8,0.54,Loss
+Sergeant,3,250,Veteran Infantry,8,250,138,206,0.55,82.4,0.67,Loss
+Sergeant,3,250,Veteran Infantry,8,250,222,188,0.89,75.2,1.18,Win
+Sergeant,3,250,Veteran Infantry,8,250,174,205,0.7,82,0.85,Loss
+Sergeant,3,250,Veteran Infantry,8,250,213,173,0.85,69.2,1.23,Win
+Sergeant,3,250,Veteran Infantry,8,250,93,214,0.37,85.6,0.43,Loss
+Sergeant,3,250,Veteran Infantry,8,250,123,212,0.49,84.8,0.58,Loss
+Sergeant,3,250,Veteran Infantry,8,250,117,199,0.47,79.6,0.59,Loss
+Sergeant,3,250,Elite Cataphract T6 Cav,9,250,86,215,0.34,86,0.4,Loss
+Sergeant,3,250,Elite Cataphract T6 Cav,9,250,204,198,0.82,79.2,1.03,Win
+Sergeant,3,250,Elite Cataphract T6 Cav,9,250,107,195,0.43,78,0.55,Loss
+Sergeant,3,250,Elite Cataphract T6 Cav,9,250,140,210,0.56,84,0.67,Loss
+Sergeant,3,250,Elite Cataphract T6 Cav,9,250,192,202,0.77,80.8,0.95,Loss
+Sergeant,3,250,Elite Cataphract T6 Cav,9,250,127,217,0.51,86.8,0.59,Loss
+Sergeant,3,250,Elite Cataphract T6 Cav,9,250,214,168,0.86,67.2,1.27,Win
+Sergeant,3,250,Elite Cataphract T6 Cav,9,250,194,201,0.78,80.4,0.97,Loss
+Sergeant,3,250,Elite Cataphract T6 Cav,9,250,96,212,0.38,84.8,0.45,Loss
+Sergeant,3,250,Elite Cataphract T6 Cav,9,250,103,206,0.41,82.4,0.5,Loss
+Sergeant,3,250,Imperial Sgt Crossbowmen,10,250,154,204,0.62,81.6,0.75,Loss
+Sergeant,3,250,Imperial Sgt Crossbowmen,10,250,220,164,0.88,65.6,1.34,Win
+Sergeant,3,250,Imperial Sgt Crossbowmen,10,250,209,105,0.84,42,1.99,Win
+Sergeant,3,250,Imperial Sgt Crossbowmen,10,250,213,111,0.85,44.4,1.92,Win
+Sergeant,3,250,Imperial Sgt Crossbowmen,10,250,197,147,0.79,58.8,1.34,Win
+Sergeant,3,250,Imperial Sgt Crossbowmen,10,250,177,206,0.71,82.4,0.86,Loss
+Sergeant,3,250,Imperial Sgt Crossbowmen,10,250,213,143,0.85,57.2,1.49,Win
+Sergeant,3,250,Imperial Sgt Crossbowmen,10,250,228,174,0.91,69.6,1.31,Win
+Sergeant,3,250,Imperial Sgt Crossbowmen,10,250,129,202,0.52,80.8,0.64,Loss
+Sergeant,3,250,Imperial Sgt Crossbowmen,10,250,217,160,0.87,64,1.36,Win
+Sergeant,3,250,Khan's Guard,11,250,88,223,0.35,89.2,0.39,Loss
+Sergeant,3,250,Khan's Guard,11,250,41,228,0.16,91.2,0.18,Loss
+Sergeant,3,250,Khan's Guard,11,250,41,228,0.16,91.2,0.18,Loss
+Sergeant,3,250,Khan's Guard,11,250,52,228,0.21,91.2,0.23,Loss
+Sergeant,3,250,Khan's Guard,11,250,51,223,0.2,89.2,0.23,Loss
+Sergeant,3,250,Khan's Guard,11,250,60,217,0.24,86.8,0.28,Loss
+Sergeant,3,250,Khan's Guard,11,250,66,223,0.26,89.2,0.3,Loss
+Sergeant,3,250,Khan's Guard,11,250,60,225,0.24,90,0.27,Loss
+Sergeant,3,250,Khan's Guard,11,250,41,236,0.16,94.4,0.17,Loss
+Sergeant,3,250,Khan's Guard,11,250,43,228,0.17,91.2,0.19,Loss
+Sergeant,3,250,Fian Champion,12,250,35,224,0.14,89.6,0.16,Loss
+Sergeant,3,250,Fian Champion,12,250,74,211,0.3,84.4,0.35,Loss
+Sergeant,3,250,Fian Champion,12,250,44,221,0.18,88.4,0.2,Loss
+Sergeant,3,250,Fian Champion,12,250,59,219,0.24,87.6,0.27,Loss
+Sergeant,3,250,Fian Champion,12,250,75,210,0.3,84,0.36,Loss
+Sergeant,3,250,Fian Champion,12,250,50,234,0.2,93.6,0.21,Loss
+Sergeant,3,250,Fian Champion,12,250,69,222,0.28,88.8,0.31,Loss
+Sergeant,3,250,Fian Champion,12,250,56,216,0.22,86.4,0.26,Loss
+Sergeant,3,250,Fian Champion,12,250,70,235,0.28,94,0.3,Loss
+Sergeant,3,250,Fian Champion,12,250,63,225,0.25,90,0.28,Loss
+Sergeant,3,250,Mixed Infantry,13,667,523,124,0.78,49.6,4.22,Win
+Sergeant,3,250,Mixed Infantry,13,667,309,237,0.46,94.8,1.3,Win
+Sergeant,3,250,Mixed Infantry,13,667,526,167,0.79,66.8,3.15,Win
+Sergeant,3,250,Mixed Infantry,13,667,497,234,0.75,93.6,2.12,Loss
+Sergeant,3,250,Mixed Infantry,13,667,525,208,0.79,83.2,2.52,Win
+Sergeant,3,250,Mixed Infantry,13,667,601,129,0.9,51.6,4.66,Win
+Sergeant,3,250,Mixed Infantry,13,667,302,234,0.45,93.6,1.29,Loss
+Sergeant,3,250,Mixed Infantry,13,667,292,244,0.44,97.6,1.2,Loss
+Sergeant,3,250,Mixed Infantry,13,667,553,229,0.83,91.6,2.41,Loss
+Sergeant,3,250,Mixed Infantry,13,667,555,214,0.83,85.6,2.59,Win
+Oathsworn,4,250,Wildling,5,250,178,108,0.71,43.2,1.65,Win
+Oathsworn,4,250,Wildling,5,250,201,79,0.8,31.6,2.54,Win
+Oathsworn,4,250,Wildling,5,250,196,138,0.78,55.2,1.42,Win
+Oathsworn,4,250,Wildling,5,250,205,139,0.82,55.6,1.47,Win
+Oathsworn,4,250,Wildling,5,250,180,128,0.72,51.2,1.41,Win
+Oathsworn,4,250,Wildling,5,250,216,135,0.86,54,1.6,Win
+Oathsworn,4,250,Wildling,5,250,200,197,0.8,78.8,1.02,Win
+Oathsworn,4,250,Wildling,5,250,139,224,0.56,89.6,0.62,Loss
+Oathsworn,4,250,Wildling,5,250,208,121,0.83,48.4,1.72,Win
+Oathsworn,4,250,Wildling,5,250,184,154,0.74,61.6,1.19,Win
+Oathsworn,4,250,Heavy Spearmen,6,250,190,122,0.76,48.8,1.56,Win
+Oathsworn,4,250,Heavy Spearmen,6,250,197,161,0.79,64.4,1.22,Win
+Oathsworn,4,250,Heavy Spearmen,6,250,133,197,0.53,78.8,0.68,Loss
+Oathsworn,4,250,Heavy Spearmen,6,250,161,206,0.64,82.4,0.78,Loss
+Oathsworn,4,250,Heavy Spearmen,6,250,197,139,0.79,55.6,1.42,Win
+Oathsworn,4,250,Heavy Spearmen,6,250,136,206,0.54,82.4,0.66,Loss
+Oathsworn,4,250,Heavy Spearmen,6,250,126,195,0.5,78,0.65,Loss
+Oathsworn,4,250,Heavy Spearmen,6,250,152,215,0.61,86,0.71,Loss
+Oathsworn,4,250,Heavy Spearmen,6,250,84,186,0.34,74.4,0.45,Loss
+Oathsworn,4,250,Heavy Spearmen,6,250,200,157,0.8,62.8,1.27,Win
+Oathsworn,4,250,Heavy Axemen,7,250,208,195,0.83,78,1.07,Win
+Oathsworn,4,250,Heavy Axemen,7,250,197,129,0.79,51.6,1.53,Win
+Oathsworn,4,250,Heavy Axemen,7,250,171,207,0.68,82.8,0.83,Loss
+Oathsworn,4,250,Heavy Axemen,7,250,196,169,0.78,67.6,1.16,Win
+Oathsworn,4,250,Heavy Axemen,7,250,211,150,0.84,60,1.41,Win
+Oathsworn,4,250,Heavy Axemen,7,250,133,191,0.53,76.4,0.7,Loss
+Oathsworn,4,250,Heavy Axemen,7,250,136,200,0.54,80,0.68,Loss
+Oathsworn,4,250,Heavy Axemen,7,250,170,198,0.68,79.2,0.86,Loss
+Oathsworn,4,250,Heavy Axemen,7,250,203,166,0.81,66.4,1.22,Win
+Oathsworn,4,250,Heavy Axemen,7,250,189,162,0.76,64.8,1.17,Win
+Oathsworn,4,250,Veteran Infantry,8,250,71,177,0.28,70.8,0.4,Loss
+Oathsworn,4,250,Veteran Infantry,8,250,117,235,0.47,94,0.5,Loss
+Oathsworn,4,250,Veteran Infantry,8,250,66,180,0.26,72,0.37,Loss
+Oathsworn,4,250,Veteran Infantry,8,250,55,191,0.22,76.4,0.29,Loss
+Oathsworn,4,250,Veteran Infantry,8,250,53,191,0.21,76.4,0.28,Loss
+Oathsworn,4,250,Veteran Infantry,8,250,77,187,0.31,74.8,0.41,Loss
+Oathsworn,4,250,Veteran Infantry,8,250,141,200,0.56,80,0.71,Loss
+Oathsworn,4,250,Veteran Infantry,8,250,77,184,0.31,73.6,0.42,Loss
+Oathsworn,4,250,Veteran Infantry,8,250,66,191,0.26,76.4,0.35,Loss
+Oathsworn,4,250,Veteran Infantry,8,250,108,197,0.43,78.8,0.55,Loss
+Oathsworn,4,250,Elite Cataphract T6 Cav,9,250,78,222,0.31,88.8,0.35,Loss
+Oathsworn,4,250,Elite Cataphract T6 Cav,9,250,75,220,0.3,88,0.34,Loss
+Oathsworn,4,250,Elite Cataphract T6 Cav,9,250,67,210,0.27,84,0.32,Loss
+Oathsworn,4,250,Elite Cataphract T6 Cav,9,250,54,205,0.22,82,0.26,Loss
+Oathsworn,4,250,Elite Cataphract T6 Cav,9,250,61,200,0.24,80,0.31,Loss
+Oathsworn,4,250,Elite Cataphract T6 Cav,9,250,68,201,0.27,80.4,0.34,Loss
+Oathsworn,4,250,Elite Cataphract T6 Cav,9,250,71,198,0.28,79.2,0.36,Loss
+Oathsworn,4,250,Elite Cataphract T6 Cav,9,250,65,202,0.26,80.8,0.32,Loss
+Oathsworn,4,250,Elite Cataphract T6 Cav,9,250,70,198,0.28,79.2,0.35,Loss
+Oathsworn,4,250,Elite Cataphract T6 Cav,9,250,62,204,0.25,81.6,0.3,Loss
+Oathsworn,4,250,Imperial Sgt Crossbowmen,10,250,43,187,0.17,74.8,0.23,Loss
+Oathsworn,4,250,Imperial Sgt Crossbowmen,10,250,43,190,0.17,76,0.23,Loss
+Oathsworn,4,250,Imperial Sgt Crossbowmen,10,250,52,176,0.21,70.4,0.3,Loss
+Oathsworn,4,250,Imperial Sgt Crossbowmen,10,250,45,177,0.18,70.8,0.25,Loss
+Oathsworn,4,250,Imperial Sgt Crossbowmen,10,250,41,171,0.16,68.4,0.24,Loss
+Oathsworn,4,250,Imperial Sgt Crossbowmen,10,250,55,189,0.22,75.6,0.29,Loss
+Oathsworn,4,250,Imperial Sgt Crossbowmen,10,250,40,184,0.16,73.6,0.22,Loss
+Oathsworn,4,250,Imperial Sgt Crossbowmen,10,250,41,171,0.16,68.4,0.24,Loss
+Oathsworn,4,250,Imperial Sgt Crossbowmen,10,250,47,181,0.19,72.4,0.26,Loss
+Oathsworn,4,250,Imperial Sgt Crossbowmen,10,250,44,185,0.18,74,0.24,Loss
+Oathsworn,4,250,Khan's Guard,11,250,9,184,0.04,73.6,0.05,Loss
+Oathsworn,4,250,Khan's Guard,11,250,30,247,0.12,98.8,0.12,Loss
+Oathsworn,4,250,Khan's Guard,11,250,18,249,0.07,99.6,0.07,Loss
+Oathsworn,4,250,Khan's Guard,11,250,16,230,0.06,92,0.07,Loss
+Oathsworn,4,250,Khan's Guard,11,250,20,241,0.08,96.4,0.08,Loss
+Oathsworn,4,250,Khan's Guard,11,250,10,238,0.04,95.2,0.04,Loss
+Oathsworn,4,250,Khan's Guard,11,250,26,245,0.1,98,0.11,Loss
+Oathsworn,4,250,Khan's Guard,11,250,23,242,0.09,96.8,0.1,Loss
+Oathsworn,4,250,Khan's Guard,11,250,31,216,0.12,86.4,0.14,Loss
+Oathsworn,4,250,Khan's Guard,11,250,20,237,0.08,94.8,0.08,Loss
+Oathsworn,4,250,Fian Champion,12,250,42,233,0.17,93.2,0.18,Loss
+Oathsworn,4,250,Fian Champion,12,250,22,222,0.09,88.8,0.1,Loss
+Oathsworn,4,250,Fian Champion,12,250,17,236,0.07,94.4,0.07,Loss
+Oathsworn,4,250,Fian Champion,12,250,38,242,0.15,96.8,0.16,Loss
+Oathsworn,4,250,Fian Champion,12,250,29,232,0.12,92.8,0.13,Loss
+Oathsworn,4,250,Fian Champion,12,250,20,229,0.08,91.6,0.09,Loss
+Oathsworn,4,250,Fian Champion,12,250,20,230,0.08,92,0.09,Loss
+Oathsworn,4,250,Fian Champion,12,250,19,235,0.08,94,0.08,Loss
+Oathsworn,4,250,Fian Champion,12,250,28,233,0.11,93.2,0.12,Loss
+Oathsworn,4,250,Fian Champion,12,250,33,219,0.13,87.6,0.15,Loss
+Oathsworn,4,250,Mixed Infantry,13,667,290,245,0.43,98,1.18,Loss
+Oathsworn,4,250,Mixed Infantry,13,667,497,194,0.75,77.6,2.56,Win
+Oathsworn,4,250,Mixed Infantry,13,667,377,237,0.57,94.8,1.59,Loss
+Oathsworn,4,250,Mixed Infantry,13,667,261,243,0.39,97.2,1.07,Loss
+Oathsworn,4,250,Mixed Infantry,13,667,355,238,0.53,95.2,1.49,Loss
+Oathsworn,4,250,Mixed Infantry,13,667,321,233,0.48,93.2,1.38,Loss
+Oathsworn,4,250,Mixed Infantry,13,667,318,247,0.48,98.8,1.29,Loss
+Oathsworn,4,250,Mixed Infantry,13,667,387,246,0.58,98.4,1.57,Loss
+Oathsworn,4,250,Mixed Infantry,13,667,327,234,0.49,93.6,1.4,Loss
+Oathsworn,4,250,Mixed Infantry,13,667,347,244,0.52,97.6,1.42,Loss
+Wildling,5,250,Heavy Spearmen,6,250,38,219,0.15,87.6,0.17,Loss
+Wildling,5,250,Heavy Spearmen,6,250,27,215,0.11,86,0.13,Loss
+Wildling,5,250,Heavy Spearmen,6,250,48,205,0.19,82,0.23,Loss
+Wildling,5,250,Heavy Spearmen,6,250,72,215,0.29,86,0.33,Loss
+Wildling,5,250,Heavy Spearmen,6,250,33,212,0.13,84.8,0.16,Loss
+Wildling,5,250,Heavy Spearmen,6,250,45,188,0.18,75.2,0.24,Loss
+Wildling,5,250,Heavy Spearmen,6,250,58,197,0.23,78.8,0.29,Loss
+Wildling,5,250,Heavy Spearmen,6,250,39,211,0.16,84.4,0.18,Loss
+Wildling,5,250,Heavy Spearmen,6,250,32,202,0.13,80.8,0.16,Loss
+Wildling,5,250,Heavy Spearmen,6,250,64,225,0.26,90,0.28,Loss
+Wildling,5,250,Heavy Axemen,7,250,98,211,0.39,84.4,0.46,Loss
+Wildling,5,250,Heavy Axemen,7,250,65,199,0.26,79.6,0.33,Loss
+Wildling,5,250,Heavy Axemen,7,250,57,192,0.23,76.8,0.3,Loss
+Wildling,5,250,Heavy Axemen,7,250,41,198,0.16,79.2,0.21,Loss
+Wildling,5,250,Heavy Axemen,7,250,68,217,0.27,86.8,0.31,Loss
+Wildling,5,250,Heavy Axemen,7,250,99,214,0.4,85.6,0.46,Loss
+Wildling,5,250,Heavy Axemen,7,250,105,204,0.42,81.6,0.51,Loss
+Wildling,5,250,Heavy Axemen,7,250,58,191,0.23,76.4,0.3,Loss
+Wildling,5,250,Heavy Axemen,7,250,62,228,0.25,91.2,0.27,Loss
+Wildling,5,250,Heavy Axemen,7,250,109,217,0.44,86.8,0.5,Loss
+Wildling,5,250,Veteran Infantry,8,250,35,232,0.14,92.8,0.15,Loss
+Wildling,5,250,Veteran Infantry,8,250,27,234,0.11,93.6,0.12,Loss
+Wildling,5,250,Veteran Infantry,8,250,36,199,0.14,79.6,0.18,Loss
+Wildling,5,250,Veteran Infantry,8,250,29,215,0.12,86,0.13,Loss
+Wildling,5,250,Veteran Infantry,8,250,26,195,0.1,78,0.13,Loss
+Wildling,5,250,Veteran Infantry,8,250,32,224,0.13,89.6,0.14,Loss
+Wildling,5,250,Veteran Infantry,8,250,37,207,0.15,82.8,0.18,Loss
+Wildling,5,250,Veteran Infantry,8,250,30,210,0.12,84,0.14,Loss
+Wildling,5,250,Veteran Infantry,8,250,55,218,0.22,87.2,0.25,Loss
+Wildling,5,250,Veteran Infantry,8,250,35,202,0.14,80.8,0.17,Loss
+Wildling,5,250,Elite Cataphract T6 Cav,9,250,29,228,0.12,91.2,0.13,Loss
+Wildling,5,250,Elite Cataphract T6 Cav,9,250,41,196,0.16,78.4,0.21,Loss
+Wildling,5,250,Elite Cataphract T6 Cav,9,250,21,187,0.08,74.8,0.11,Loss
+Wildling,5,250,Elite Cataphract T6 Cav,9,250,25,205,0.1,82,0.12,Loss
+Wildling,5,250,Elite Cataphract T6 Cav,9,250,29,203,0.12,81.2,0.14,Loss
+Wildling,5,250,Elite Cataphract T6 Cav,9,250,30,208,0.12,83.2,0.14,Loss
+Wildling,5,250,Elite Cataphract T6 Cav,9,250,57,215,0.23,86,0.27,Loss
+Wildling,5,250,Elite Cataphract T6 Cav,9,250,35,224,0.14,89.6,0.16,Loss
+Wildling,5,250,Elite Cataphract T6 Cav,9,250,33,194,0.13,77.6,0.17,Loss
+Wildling,5,250,Elite Cataphract T6 Cav,9,250,27,216,0.11,86.4,0.13,Loss
+Wildling,5,250,Imperial Sgt Crossbowmen,10,250,96,211,0.38,84.4,0.45,Loss
+Wildling,5,250,Imperial Sgt Crossbowmen,10,250,97,239,0.39,95.6,0.41,Loss
+Wildling,5,250,Imperial Sgt Crossbowmen,10,250,109,230,0.44,92,0.47,Loss
+Wildling,5,250,Imperial Sgt Crossbowmen,10,250,90,197,0.36,78.8,0.46,Loss
+Wildling,5,250,Imperial Sgt Crossbowmen,10,250,86,217,0.34,86.8,0.4,Loss
+Wildling,5,250,Imperial Sgt Crossbowmen,10,250,79,210,0.32,84,0.38,Loss
+Wildling,5,250,Imperial Sgt Crossbowmen,10,250,81,222,0.32,88.8,0.36,Loss
+Wildling,5,250,Imperial Sgt Crossbowmen,10,250,75,215,0.3,86,0.35,Loss
+Wildling,5,250,Imperial Sgt Crossbowmen,10,250,77,213,0.31,85.2,0.36,Loss
+Wildling,5,250,Imperial Sgt Crossbowmen,10,250,84,199,0.34,79.6,0.42,Loss
+Wildling,5,250,Khan's Guard,11,250,30,244,0.12,97.6,0.12,Loss
+Wildling,5,250,Khan's Guard,11,250,28,240,0.11,96,0.12,Loss
+Wildling,5,250,Khan's Guard,11,250,31,228,0.12,91.2,0.14,Loss
+Wildling,5,250,Khan's Guard,11,250,30,235,0.12,94,0.13,Loss
+Wildling,5,250,Khan's Guard,11,250,32,241,0.13,96.4,0.13,Loss
+Wildling,5,250,Khan's Guard,11,250,25,238,0.1,95.2,0.11,Loss
+Wildling,5,250,Khan's Guard,11,250,29,229,0.12,91.6,0.13,Loss
+Wildling,5,250,Khan's Guard,11,250,27,235,0.11,94,0.11,Loss
+Wildling,5,250,Khan's Guard,11,250,34,231,0.14,92.4,0.15,Loss
+Wildling,5,250,Khan's Guard,11,250,31,232,0.12,92.8,0.13,Loss
+Wildling,5,250,Fian Champion,12,250,32,206,0.13,82.4,0.16,Loss
+Wildling,5,250,Fian Champion,12,250,27,225,0.11,90,0.12,Loss
+Wildling,5,250,Fian Champion,12,250,19,233,0.08,93.2,0.08,Loss
+Wildling,5,250,Fian Champion,12,250,27,214,0.11,85.6,0.13,Loss
+Wildling,5,250,Fian Champion,12,250,19,230,0.08,92,0.08,Loss
+Wildling,5,250,Fian Champion,12,250,13,211,0.05,84.4,0.06,Loss
+Wildling,5,250,Fian Champion,12,250,18,225,0.07,90,0.08,Loss
+Wildling,5,250,Fian Champion,12,250,21,215,0.08,86,0.1,Loss
+Wildling,5,250,Fian Champion,12,250,18,220,0.07,88,0.08,Loss
+Wildling,5,250,Fian Champion,12,250,19,222,0.08,88.8,0.09,Loss
+Wildling,5,250,Mixed Infantry,13,667,181,239,0.27,95.6,0.76,Loss
+Wildling,5,250,Mixed Infantry,13,667,185,244,0.28,97.6,0.76,Loss
+Wildling,5,250,Mixed Infantry,13,667,182,227,0.27,90.8,0.8,Loss
+Wildling,5,250,Mixed Infantry,13,667,194,238,0.29,95.2,0.82,Loss
+Wildling,5,250,Mixed Infantry,13,667,216,233,0.32,93.2,0.93,Loss
+Wildling,5,250,Mixed Infantry,13,667,176,233,0.26,93.2,0.76,Loss
+Wildling,5,250,Mixed Infantry,13,667,155,241,0.23,96.4,0.64,Loss
+Wildling,5,250,Mixed Infantry,13,667,184,229,0.28,91.6,0.8,Loss
+Wildling,5,250,Mixed Infantry,13,667,227,227,0.34,90.8,1,Loss
+Wildling,5,250,Mixed Infantry,13,667,171,228,0.26,91.2,0.75,Loss
+Heavy Spearmen,6,250,Heavy Axemen,7,250,195,198,0.78,79.2,0.98,Loss
+Heavy Spearmen,6,250,Heavy Axemen,7,250,198,213,0.79,85.2,0.93,Loss
+Heavy Spearmen,6,250,Heavy Axemen,7,250,189,95,0.76,38,1.99,Win
+Heavy Spearmen,6,250,Heavy Axemen,7,250,195,131,0.78,52.4,1.49,Win
+Heavy Spearmen,6,250,Heavy Axemen,7,250,77,201,0.31,80.4,0.38,Loss
+Heavy Spearmen,6,250,Heavy Axemen,7,250,125,196,0.5,78.4,0.64,Loss
+Heavy Spearmen,6,250,Heavy Axemen,7,250,134,196,0.54,78.4,0.68,Loss
+Heavy Spearmen,6,250,Heavy Axemen,7,250,214,165,0.86,66,1.3,Win
+Heavy Spearmen,6,250,Heavy Axemen,7,250,181,201,0.72,80.4,0.9,Loss
+Heavy Spearmen,6,250,Heavy Axemen,7,250,166,211,0.66,84.4,0.79,Loss
+Heavy Spearmen,6,250,Veteran Infantry,8,250,167,198,0.67,79.2,0.84,Loss
+Heavy Spearmen,6,250,Veteran Infantry,8,250,77,179,0.31,71.6,0.43,Loss
+Heavy Spearmen,6,250,Veteran Infantry,8,250,137,200,0.55,80,0.69,Loss
+Heavy Spearmen,6,250,Veteran Infantry,8,250,206,173,0.82,69.2,1.19,Win
+Heavy Spearmen,6,250,Veteran Infantry,8,250,196,203,0.78,81.2,0.97,Loss
+Heavy Spearmen,6,250,Veteran Infantry,8,250,133,240,0.53,96,0.55,Loss
+Heavy Spearmen,6,250,Veteran Infantry,8,250,199,176,0.8,70.4,1.13,Win
+Heavy Spearmen,6,250,Veteran Infantry,8,250,94,214,0.38,85.6,0.44,Loss
+Heavy Spearmen,6,250,Veteran Infantry,8,250,178,210,0.71,84,0.85,Loss
+Heavy Spearmen,6,250,Veteran Infantry,8,250,144,204,0.58,81.6,0.71,Loss
+Heavy Spearmen,6,250,Elite Cataphract T6 Cav,9,250,80,217,0.32,86.8,0.37,Loss
+Heavy Spearmen,6,250,Elite Cataphract T6 Cav,9,250,73,209,0.29,83.6,0.35,Loss
+Heavy Spearmen,6,250,Elite Cataphract T6 Cav,9,250,112,190,0.45,76,0.59,Loss
+Heavy Spearmen,6,250,Elite Cataphract T6 Cav,9,250,92,203,0.37,81.2,0.45,Loss
+Heavy Spearmen,6,250,Elite Cataphract T6 Cav,9,250,46,220,0.18,88,0.21,Loss
+Heavy Spearmen,6,250,Elite Cataphract T6 Cav,9,250,59,187,0.24,74.8,0.32,Loss
+Heavy Spearmen,6,250,Elite Cataphract T6 Cav,9,250,66,227,0.26,90.8,0.29,Loss
+Heavy Spearmen,6,250,Elite Cataphract T6 Cav,9,250,85,181,0.34,72.4,0.47,Loss
+Heavy Spearmen,6,250,Elite Cataphract T6 Cav,9,250,67,191,0.27,76.4,0.35,Loss
+Heavy Spearmen,6,250,Elite Cataphract T6 Cav,9,250,73,204,0.29,81.6,0.36,Loss
+Heavy Spearmen,6,250,Imperial Sgt Crossbowmen,10,250,221,129,0.88,51.6,1.71,Win
+Heavy Spearmen,6,250,Imperial Sgt Crossbowmen,10,250,194,202,0.78,80.8,0.96,Loss
+Heavy Spearmen,6,250,Imperial Sgt Crossbowmen,10,250,171,221,0.68,88.4,0.77,Loss
+Heavy Spearmen,6,250,Imperial Sgt Crossbowmen,10,250,134,236,0.54,94.4,0.57,Loss
+Heavy Spearmen,6,250,Imperial Sgt Crossbowmen,10,250,115,200,0.46,80,0.58,Loss
+Heavy Spearmen,6,250,Imperial Sgt Crossbowmen,10,250,157,205,0.63,82,0.77,Loss
+Heavy Spearmen,6,250,Imperial Sgt Crossbowmen,10,250,209,125,0.84,50,1.67,Win
+Heavy Spearmen,6,250,Imperial Sgt Crossbowmen,10,250,200,200,0.8,80,1,Win
+Heavy Spearmen,6,250,Imperial Sgt Crossbowmen,10,250,114,208,0.46,83.2,0.55,Loss
+Heavy Spearmen,6,250,Imperial Sgt Crossbowmen,10,250,208,200,0.83,80,1.04,Win
+Heavy Spearmen,6,250,Khan's Guard,11,250,28,220,0.11,88,0.13,Loss
+Heavy Spearmen,6,250,Khan's Guard,11,250,35,236,0.14,94.4,0.15,Loss
+Heavy Spearmen,6,250,Khan's Guard,11,250,38,222,0.15,88.8,0.17,Loss
+Heavy Spearmen,6,250,Khan's Guard,11,250,36,223,0.14,89.2,0.16,Loss
+Heavy Spearmen,6,250,Khan's Guard,11,250,25,236,0.1,94.4,0.11,Loss
+Heavy Spearmen,6,250,Khan's Guard,11,250,31,223,0.12,89.2,0.14,Loss
+Heavy Spearmen,6,250,Khan's Guard,11,250,40,231,0.16,92.4,0.17,Loss
+Heavy Spearmen,6,250,Khan's Guard,11,250,50,225,0.2,90,0.22,Loss
+Heavy Spearmen,6,250,Khan's Guard,11,250,28,230,0.11,92,0.12,Loss
+Heavy Spearmen,6,250,Khan's Guard,11,250,30,220,0.12,88,0.14,Loss
+Heavy Spearmen,6,250,Fian Champion,12,250,35,223,0.14,89.2,0.16,Loss
+Heavy Spearmen,6,250,Fian Champion,12,250,40,208,0.16,83.2,0.19,Loss
+Heavy Spearmen,6,250,Fian Champion,12,250,30,238,0.12,95.2,0.13,Loss
+Heavy Spearmen,6,250,Fian Champion,12,250,49,227,0.2,90.8,0.22,Loss
+Heavy Spearmen,6,250,Fian Champion,12,250,42,222,0.17,88.8,0.19,Loss
+Heavy Spearmen,6,250,Fian Champion,12,250,41,220,0.16,88,0.19,Loss
+Heavy Spearmen,6,250,Fian Champion,12,250,45,222,0.18,88.8,0.2,Loss
+Heavy Spearmen,6,250,Fian Champion,12,250,40,227,0.16,90.8,0.18,Loss
+Heavy Spearmen,6,250,Fian Champion,12,250,38,231,0.15,92.4,0.16,Loss
+Heavy Spearmen,6,250,Fian Champion,12,250,41,225,0.16,90,0.18,Loss
+Heavy Spearmen,6,250,Mixed Infantry,13,667,525,173,0.79,69.2,3.03,Win
+Heavy Spearmen,6,250,Mixed Infantry,13,667,494,165,0.74,66,2.99,Win
+Heavy Spearmen,6,250,Mixed Infantry,13,667,504,199,0.76,79.6,2.53,Win
+Heavy Spearmen,6,250,Mixed Infantry,13,667,447,236,0.67,94.4,1.89,Loss
+Heavy Spearmen,6,250,Mixed Infantry,13,667,478,106,0.72,42.4,4.51,Win
+Heavy Spearmen,6,250,Mixed Infantry,13,667,515,156,0.77,62.4,3.3,Win
+Heavy Spearmen,6,250,Mixed Infantry,13,667,503,169,0.75,67.6,2.98,Win
+Heavy Spearmen,6,250,Mixed Infantry,13,667,470,84,0.7,33.6,5.6,Win
+Heavy Spearmen,6,250,Mixed Infantry,13,667,512,200,0.77,80,2.56,Win
+Heavy Spearmen,6,250,Mixed Infantry,13,667,538,93,0.81,37.2,5.78,Win
+Heavy Axemen,7,250,Veteran Infantry,8,250,83,199,0.33,79.6,0.42,Loss
+Heavy Axemen,7,250,Veteran Infantry,8,250,97,194,0.39,77.6,0.5,Loss
+Heavy Axemen,7,250,Veteran Infantry,8,250,109,215,0.44,86,0.51,Loss
+Heavy Axemen,7,250,Veteran Infantry,8,250,111,215,0.44,86,0.52,Loss
+Heavy Axemen,7,250,Veteran Infantry,8,250,96,233,0.38,93.2,0.41,Loss
+Heavy Axemen,7,250,Veteran Infantry,8,250,107,216,0.43,86.4,0.5,Loss
+Heavy Axemen,7,250,Veteran Infantry,8,250,122,211,0.49,84.4,0.58,Loss
+Heavy Axemen,7,250,Veteran Infantry,8,250,116,209,0.46,83.6,0.56,Loss
+Heavy Axemen,7,250,Veteran Infantry,8,250,127,205,0.51,82,0.62,Loss
+Heavy Axemen,7,250,Veteran Infantry,8,250,93,204,0.37,81.6,0.46,Loss
+Heavy Axemen,7,250,Elite Cataphract T6 Cav,9,250,91,193,0.36,77.2,0.47,Loss
+Heavy Axemen,7,250,Elite Cataphract T6 Cav,9,250,98,212,0.39,84.8,0.46,Loss
+Heavy Axemen,7,250,Elite Cataphract T6 Cav,9,250,132,231,0.53,92.4,0.57,Loss
+Heavy Axemen,7,250,Elite Cataphract T6 Cav,9,250,83,224,0.33,89.6,0.37,Loss
+Heavy Axemen,7,250,Elite Cataphract T6 Cav,9,250,108,201,0.43,80.4,0.54,Loss
+Heavy Axemen,7,250,Elite Cataphract T6 Cav,9,250,57,208,0.23,83.2,0.27,Loss
+Heavy Axemen,7,250,Elite Cataphract T6 Cav,9,250,71,210,0.28,84,0.34,Loss
+Heavy Axemen,7,250,Elite Cataphract T6 Cav,9,250,65,221,0.26,88.4,0.29,Loss
+Heavy Axemen,7,250,Elite Cataphract T6 Cav,9,250,126,226,0.5,90.4,0.56,Loss
+Heavy Axemen,7,250,Elite Cataphract T6 Cav,9,250,104,199,0.42,79.6,0.52,Loss
+Heavy Axemen,7,250,Imperial Sgt Crossbowmen,10,250,163,234,0.65,93.6,0.7,Loss
+Heavy Axemen,7,250,Imperial Sgt Crossbowmen,10,250,171,218,0.68,87.2,0.78,Loss
+Heavy Axemen,7,250,Imperial Sgt Crossbowmen,10,250,183,217,0.73,86.8,0.84,Loss
+Heavy Axemen,7,250,Imperial Sgt Crossbowmen,10,250,168,227,0.67,90.8,0.74,Loss
+Heavy Axemen,7,250,Imperial Sgt Crossbowmen,10,250,205,188,0.82,75.2,1.09,Win
+Heavy Axemen,7,250,Imperial Sgt Crossbowmen,10,250,184,233,0.74,93.2,0.79,Loss
+Heavy Axemen,7,250,Imperial Sgt Crossbowmen,10,250,201,208,0.8,83.2,0.97,Loss
+Heavy Axemen,7,250,Imperial Sgt Crossbowmen,10,250,201,211,0.8,84.4,0.95,Loss
+Heavy Axemen,7,250,Imperial Sgt Crossbowmen,10,250,199,151,0.8,60.4,1.32,Win
+Heavy Axemen,7,250,Imperial Sgt Crossbowmen,10,250,212,161,0.85,64.4,1.32,Win
+Heavy Axemen,7,250,Khan's Guard,11,250,44,232,0.18,92.8,0.19,Loss
+Heavy Axemen,7,250,Khan's Guard,11,250,63,239,0.25,95.6,0.26,Loss
+Heavy Axemen,7,250,Khan's Guard,11,250,35,238,0.14,95.2,0.15,Loss
+Heavy Axemen,7,250,Khan's Guard,11,250,32,225,0.13,90,0.14,Loss
+Heavy Axemen,7,250,Khan's Guard,11,250,34,222,0.14,88.8,0.15,Loss
+Heavy Axemen,7,250,Khan's Guard,11,250,30,225,0.12,90,0.13,Loss
+Heavy Axemen,7,250,Khan's Guard,11,250,34,243,0.14,97.2,0.14,Loss
+Heavy Axemen,7,250,Khan's Guard,11,250,24,232,0.1,92.8,0.1,Loss
+Heavy Axemen,7,250,Khan's Guard,11,250,26,224,0.1,89.6,0.12,Loss
+Heavy Axemen,7,250,Khan's Guard,11,250,40,237,0.16,94.8,0.17,Loss
+Heavy Axemen,7,250,Fian Champion,12,250,54,206,0.22,82.4,0.26,Loss
+Heavy Axemen,7,250,Fian Champion,12,250,44,234,0.18,93.6,0.19,Loss
+Heavy Axemen,7,250,Fian Champion,12,250,34,217,0.14,86.8,0.16,Loss
+Heavy Axemen,7,250,Fian Champion,12,250,50,228,0.2,91.2,0.22,Loss
+Heavy Axemen,7,250,Fian Champion,12,250,57,243,0.23,97.2,0.23,Loss
+Heavy Axemen,7,250,Fian Champion,12,250,49,215,0.2,86,0.23,Loss
+Heavy Axemen,7,250,Fian Champion,12,250,56,221,0.22,88.4,0.25,Loss
+Heavy Axemen,7,250,Fian Champion,12,250,31,235,0.12,94,0.13,Loss
+Heavy Axemen,7,250,Fian Champion,12,250,41,221,0.16,88.4,0.19,Loss
+Heavy Axemen,7,250,Fian Champion,12,250,35,213,0.14,85.2,0.16,Loss
+Heavy Axemen,7,250,Mixed Infantry,13,667,472,235,0.71,94,2.01,Loss
+Heavy Axemen,7,250,Mixed Infantry,13,667,490,138,0.73,55.2,3.55,Win
+Heavy Axemen,7,250,Mixed Infantry,13,667,490,202,0.73,80.8,2.43,Win
+Heavy Axemen,7,250,Mixed Infantry,13,667,501,232,0.75,92.8,2.16,Win
+Heavy Axemen,7,250,Mixed Infantry,13,667,477,111,0.72,44.4,4.3,Win
+Heavy Axemen,7,250,Mixed Infantry,13,667,489,176,0.73,70.4,2.78,Win
+Heavy Axemen,7,250,Mixed Infantry,13,667,485,206,0.73,82.4,2.35,Win
+Heavy Axemen,7,250,Mixed Infantry,13,667,471,234,0.71,93.6,2.01,Loss
+Heavy Axemen,7,250,Mixed Infantry,13,667,462,122,0.69,48.8,3.79,Win
+Heavy Axemen,7,250,Mixed Infantry,13,667,507,186,0.76,74.4,2.73,Win
+Veteran Infantry,8,250,Elite Cataphract T6 Cav,9,250,92,200,0.37,80,0.46,Loss
+Veteran Infantry,8,250,Elite Cataphract T6 Cav,9,250,157,221,0.63,88.4,0.71,Loss
+Veteran Infantry,8,250,Elite Cataphract T6 Cav,9,250,213,161,0.85,64.4,1.32,Win
+Veteran Infantry,8,250,Elite Cataphract T6 Cav,9,250,216,188,0.86,75.2,1.15,Win
+Veteran Infantry,8,250,Elite Cataphract T6 Cav,9,250,81,213,0.32,85.2,0.38,Loss
+Veteran Infantry,8,250,Elite Cataphract T6 Cav,9,250,148,194,0.59,77.6,0.76,Loss
+Veteran Infantry,8,250,Elite Cataphract T6 Cav,9,250,85,195,0.34,78,0.44,Loss
+Veteran Infantry,8,250,Elite Cataphract T6 Cav,9,250,108,190,0.43,76,0.57,Loss
+Veteran Infantry,8,250,Elite Cataphract T6 Cav,9,250,123,231,0.49,92.4,0.53,Loss
+Veteran Infantry,8,250,Elite Cataphract T6 Cav,9,250,118,196,0.47,78.4,0.6,Loss
+Veteran Infantry,8,250,Imperial Sgt Crossbowmen,10,250,206,171,0.82,68.4,1.2,Win
+Veteran Infantry,8,250,Imperial Sgt Crossbowmen,10,250,152,210,0.61,84,0.72,Loss
+Veteran Infantry,8,250,Imperial Sgt Crossbowmen,10,250,202,202,0.81,80.8,1,Win
+Veteran Infantry,8,250,Imperial Sgt Crossbowmen,10,250,201,170,0.8,68,1.18,Win
+Veteran Infantry,8,250,Imperial Sgt Crossbowmen,10,250,217,209,0.87,83.6,1.04,Loss
+Veteran Infantry,8,250,Imperial Sgt Crossbowmen,10,250,180,230,0.72,92,0.78,Loss
+Veteran Infantry,8,250,Imperial Sgt Crossbowmen,10,250,139,219,0.56,87.6,0.63,Loss
+Veteran Infantry,8,250,Imperial Sgt Crossbowmen,10,250,196,183,0.78,73.2,1.07,Win
+Veteran Infantry,8,250,Imperial Sgt Crossbowmen,10,250,191,156,0.76,62.4,1.22,Win
+Veteran Infantry,8,250,Imperial Sgt Crossbowmen,10,250,201,157,0.8,62.8,1.28,Win
+Veteran Infantry,8,250,Khan's Guard,11,250,49,213,0.2,85.2,0.23,Loss
+Veteran Infantry,8,250,Khan's Guard,11,250,55,212,0.22,84.8,0.26,Loss
+Veteran Infantry,8,250,Khan's Guard,11,250,44,226,0.18,90.4,0.19,Loss
+Veteran Infantry,8,250,Khan's Guard,11,250,48,235,0.19,94,0.2,Loss
+Veteran Infantry,8,250,Khan's Guard,11,250,52,226,0.21,90.4,0.23,Loss
+Veteran Infantry,8,250,Khan's Guard,11,250,51,225,0.2,90,0.23,Loss
+Veteran Infantry,8,250,Khan's Guard,11,250,62,229,0.25,91.6,0.27,Loss
+Veteran Infantry,8,250,Khan's Guard,11,250,39,223,0.16,89.2,0.17,Loss
+Veteran Infantry,8,250,Khan's Guard,11,250,59,231,0.24,92.4,0.26,Loss
+Veteran Infantry,8,250,Khan's Guard,11,250,44,223,0.18,89.2,0.2,Loss
+Veteran Infantry,8,250,Fian Champion,12,250,38,224,0.15,89.6,0.17,Loss
+Veteran Infantry,8,250,Fian Champion,12,250,52,209,0.21,83.6,0.25,Loss
+Veteran Infantry,8,250,Fian Champion,12,250,78,210,0.31,84,0.37,Loss
+Veteran Infantry,8,250,Fian Champion,12,250,42,214,0.17,85.6,0.2,Loss
+Veteran Infantry,8,250,Fian Champion,12,250,67,205,0.27,82,0.33,Loss
+Veteran Infantry,8,250,Fian Champion,12,250,69,198,0.28,79.2,0.35,Loss
+Veteran Infantry,8,250,Fian Champion,12,250,47,227,0.19,90.8,0.21,Loss
+Veteran Infantry,8,250,Fian Champion,12,250,75,223,0.3,89.2,0.34,Loss
+Veteran Infantry,8,250,Fian Champion,12,250,52,223,0.21,89.2,0.23,Loss
+Veteran Infantry,8,250,Fian Champion,12,250,99,216,0.4,86.4,0.46,Loss
+Veteran Infantry,8,250,Mixed Infantry,13,667,488,104,0.73,41.6,4.69,Win
+Veteran Infantry,8,250,Mixed Infantry,13,667,502,111,0.75,44.4,4.52,Win
+Veteran Infantry,8,250,Mixed Infantry,13,667,507,91,0.76,36.4,5.57,Win
+Veteran Infantry,8,250,Mixed Infantry,13,667,474,245,0.71,98,1.93,Loss
+Veteran Infantry,8,250,Mixed Infantry,13,667,520,119,0.78,47.6,4.37,Win
+Veteran Infantry,8,250,Mixed Infantry,13,667,530,153,0.79,61.2,3.46,Win
+Veteran Infantry,8,250,Mixed Infantry,13,667,491,101,0.74,40.4,4.86,Win
+Veteran Infantry,8,250,Mixed Infantry,13,667,510,133,0.76,53.2,3.83,Win
+Veteran Infantry,8,250,Mixed Infantry,13,667,477,74,0.72,29.6,6.45,Win
+Veteran Infantry,8,250,Mixed Infantry,13,667,561,98,0.84,39.2,5.72,Win
